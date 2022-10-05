@@ -41,7 +41,7 @@ function App() {
       </div>
       <table border="1">
         <thead>
-          <tr><td>Id</td><td>Desc</td></tr>
+          <tr><td>Id</td><td>Description</td></tr>
         </thead>
         <tbody>
           {todos.map( (item,i) => {
